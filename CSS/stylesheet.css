@@ -1,0 +1,74 @@
+body.index { 
+    background: url(/Images/Auroras/Aurora1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+body.p2 {
+    background: rgb(67,25,77);
+    background: linear-gradient(90deg, rgba(67,25,77,1) 0%, rgba(16,50,45,1) 63%);}
+
+p.p2 {
+    color: rgb(225, 225, 164);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-shadow: 0 0 10px rgb(33, 23, 39);
+}
+
+h1.p2 {
+    text-align: center;
+    color: rgb(225, 225, 164);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-shadow: 0 0 10px rgb(33, 23, 39);
+}
+
+ul.p2 {
+    color: rgb(225, 225, 164);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-shadow: 0 0 10px rgb(33, 23, 39); 
+    list-style-type: disc;
+}
+
+img.p2 {
+    height: 400px;
+    width: 400px;
+    object-fit:contain
+
+}
+h1.index {
+    text-align: center;
+    color: rgb(225, 225, 164);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-shadow: 0 0 10px rgb(33, 23, 39);
+}
+
+a:link {
+    font-size: small;  
+    color: rgb(225, 225, 164);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+a:visited {
+    font-size: small;  
+    color: rgb(113, 58, 125);
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+}
+
+p.index {
+    color: rgb(225, 225, 164);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-shadow: 0 0 10px rgb(33, 23, 39);
+}
+
+img.El2 {
+    height: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border-radius: 80%0%;
+    box-shadow: 20px 20px 15px rgb(29, 23, 26);
+}
+
+::selection {
+    background: rgb(113, 58, 125);
+}
